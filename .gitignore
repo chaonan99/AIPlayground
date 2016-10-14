@@ -2,6 +2,7 @@
 *.sublime-project
 *.sublime-workspace
 *.pyc
+AI_homework
 
 ## Core latex/pdflatex auxiliary files:
 *.aux
