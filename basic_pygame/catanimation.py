@@ -44,8 +44,4 @@ while True: # the main game loop
             sys.exit()
 
     pygame.display.update()
-    '''
-    Should be called at the very end of the game loop after pygame.display.update()
-    to ensure that our game programs don’t run too fast.
-    '''
     fpsClock.tick(FPS)
